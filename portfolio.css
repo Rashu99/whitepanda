@@ -1,0 +1,57 @@
+body{
+ background-image: url("http://w3design4u.com/wp-content/uploads/2017/01/slider-background.jpg");
+
+}
+h1{
+color:white;
+text-align: center;
+}
+.b1{
+font-family: san-sarif;
+margin: 50px 600px 50px 80px;
+padding: 30px;
+}
+p{
+color:red;
+text-align: left;
+font-size: 20px;
+}
+.but1{
+ padding:10px 40px 10px 900px;
+}
+.q1{
+ color: white;
+ padding:10px 60px; 
+}
+.port{
+  padding: 30px;
+}
+.port1{
+  text-align: center;
+  font-size: 40px;
+  padding: 30px;
+  color: Brown; 
+}
+.last1{
+  font-size: 20px;
+  font-family: san-serif;
+}
+.cont1{
+  font-size: 50px;
+  color: blue;
+}
+.color1{
+  color:brown;
+  text-decoration: underline;
+  font-size:30px;
+}
+ul{
+  color: white;
+  font-size: 16px;
+}
+.cont{
+  padding: 80px;
+}
+.link1{
+  padding:0px 20px 10px 550px;
+}
